@@ -22,9 +22,9 @@ window.onscroll = () => {
 // Running Code
 
 const codeLines = [
-"WebWizardry: ",
+"EduGalaxy: ",
 "Your gateway to mastering web technologies",
-"Unlock the magic of the web and become a true wizard!",
+"Unlock the magic of the web and become a true developer!",
 "Join us in your journey to unlock the magic of the web and become a true web wizard!"
 ];
 
