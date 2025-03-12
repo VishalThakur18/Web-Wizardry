@@ -30,4 +30,4 @@ cd YOUR_REPOSITORY
 We welcome contributions! Feel free to fork this repository and submit pull requests.
 
 ## 📧 Contact
-For any inquiries, reach out at [your-email@example.com](mailto:work.vishal18@gmail.com).
+For any inquiries, reach out at [work.vishal18@gmail.com](mailto:work.vishal18@gmail.com).
