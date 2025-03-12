@@ -22,8 +22,8 @@ This is a frontend for a course-selling platform that showcases various courses 
 
 ## 🏗️ Installation (for development)
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/VishalThakur18/Web-Wizardry
+cd Web-Wizardry
 ```
 
 ## 🤝 Contributing
